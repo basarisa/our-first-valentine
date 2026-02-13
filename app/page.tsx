@@ -65,7 +65,6 @@ export default function ValentinePage() {
           <CardContent className="p-10 text-center">
             <h1 className="text-3xl font-bold text-amber-700 mb-6">
               Will you be my Valentine ?
-              
             </h1>
 
             <div className="flex gap-6 justify-center items-center min-h-30">
@@ -192,7 +191,7 @@ export default function ValentinePage() {
                   />
                 </div>
                 <h2 className="text-2xl font-bold text-amber-700 mb-6">
-                  This one is for my Sunrise.
+                  This one is for my Sunshine
                 </h2>
 
                 <Button
@@ -220,7 +219,7 @@ export default function ValentinePage() {
                 </h2>
 
                 <p className="text-lg text-amber-800/80 mb-3">
-                  The first time we met, you called me "Sunrise".
+                  The first time we met, you called me "sunshine".
                 </p>
 
                 <p className="text-lg text-amber-800/80 mb-3">
