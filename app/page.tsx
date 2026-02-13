@@ -64,10 +64,11 @@ export default function ValentinePage() {
         <Card className="max-w-md w-full bg-white/80 backdrop-blur-md border-0 shadow-2xl z-10">
           <CardContent className="p-10 text-center">
             <h1 className="text-3xl font-bold text-amber-700 mb-6">
-              Will you be my Valentine?
+              Will you be my Valentine ?
+              
             </h1>
 
-            <div className="flex gap-6 justify-center items-center min-h-[120px]">
+            <div className="flex gap-6 justify-center items-center min-h-30">
               <Button
                 size="lg"
                 className="px-8 py-5 text-lg font-semibold bg-amber-600 hover:bg-amber-700 text-white transition hover:scale-110"
